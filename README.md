@@ -8,5 +8,7 @@
 
 
 "STEP RESPONSE FROM SIMULINK"
+# CSE_StepResponse_ME_4203_Group7_2024 Number 3![Lab2-Number1-step response-simulink](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/161009651/dffc221a-cbd2-4bd1-b1ed-b4bb4d42e8f6)
+# CSE_StepResponse_ME_4203_Group7_2024 Number 2![Lab2-Number2-step response-simulink](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/161009651/7085541f-27c4-4c39-876d-f16c4a1eabfc)
 # CSE_StepResponse_ME_4203_Group7_2024 Number 3![Lab2-Number3-step response-simulink](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/160557228/9318bb46-c9b4-4f89-8cad-b4738f20a0ac)
 # CSE_StepResponse_ME_4203_Group7_2024 Number 4![Lab2-Number4-step response-simulink](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/160557228/701687eb-9b9e-4497-ae3d-d971062c46cc)
