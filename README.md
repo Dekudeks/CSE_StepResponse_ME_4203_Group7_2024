@@ -3,6 +3,8 @@
 # CSE_StepResponse_ME_4203_Group7_2024 Number 2![Lab2-Number2-step response](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/161009651/815e6691-44cc-4b29-9c57-6e3c7592eb82)
 # CSE_StepResponse_ME_4203_Group7_2024 Number 3![Lab2-Number3-step response](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/160557228/7ef3ba57-9138-4c18-adba-d09fd09535d9)
 # CSE_StepResponse_ME_4203_Group7_2024 Number 4![Lab2-Number4-step response](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/160557228/036a9a87-44d0-4bbb-8144-dd8a4cebbb00)
+![CSE_StepResponse_ME_4203_Group7_2024 Number 5](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/159032350/abb995a8-9cd2-4e02-bf9f-ad71a2c51374)
+![CSE_StepResponse_ME_4203_Group7_2024 Number 6](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/159032350/a67e351c-8238-4bfe-bee2-6b5a6816d8c0)
 
 
 
