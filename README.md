@@ -6,6 +6,7 @@
 # CSE_StepResponse_ME_4203_Group7_2024 Number 5 ![CSE - Number 5](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/159032350/36165c90-9d1e-4b5f-aa62-dc872887118a)
 # CSE_StepResponse_ME_4203_Group7_2024 Number 6 ![CSE - Number 6](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/159032350/f4315dab-4b25-48b1-a355-d17118801745)
 # CSE_StepResponse_ME_4203_Group7_2024 Number 7 ![Lab_2_Num7](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/161302464/d2ad6f78-672a-4428-9c9c-23e1ee696b97)
+# CSE_StepResponse_ME_4203_Group7_2024 Number 8 ![Lab_2_Num8](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/161302464/601c7e49-7623-49b2-a216-63d53d026b34)
 
 
 
@@ -18,3 +19,13 @@
 # CSE_StepResponse_ME_4203_Group7_2024 Number 4![Lab2-Number4-step response-simulink](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/160557228/701687eb-9b9e-4497-ae3d-d971062c46cc)
 # CSE_StepResponse_ME_4203_Group7_2024 Number 5![CSE - Number 5 simulink](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/159032350/284726b5-928f-4674-b312-16699f55cd8e)
 # CSE_StepResponse_ME_4203_Group7_2024 Number 6![CSE - Number 6 simulink](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/159032350/b18d1041-3153-4f98-9538-c618192806f8)
+# CSE_StepResponse_ME_4203_Group7_2024 Number 7![Step7](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/161302464/15ebc056-660f-40ce-84cf-324cf5a277df)
+# CSE_StepResponse_ME_4203_Group7_2024 Number 8![Step8](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/161302464/d44a94c7-df06-447a-840f-83c2d3670367)
+
+
+
+
+
+"SINUSOIDAL WAVE RESPONSE FROM SIMULINK"
+# CSE_StepResponse_ME_4203_Group7_2024 Number 7![Sine7](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/161302464/626b2d4f-8646-494e-853d-c3276f2fe20f)
+# CSE_StepResponse_ME_4203_Group7_2024 Number 8![Sine8](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/161302464/215c9a52-cc55-41a2-8683-b855a383b4f5)
