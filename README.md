@@ -5,6 +5,7 @@
 # CSE_StepResponse_ME_4203_Group7_2024 Number 4![Lab2-Number4-step response](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/160557228/036a9a87-44d0-4bbb-8144-dd8a4cebbb00)
 # CSE_StepResponse_ME_4203_Group7_2024 Number 5 ![CSE - Number 5](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/159032350/36165c90-9d1e-4b5f-aa62-dc872887118a)
 # CSE_StepResponse_ME_4203_Group7_2024 Number 6 ![CSE - Number 6](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/159032350/f4315dab-4b25-48b1-a355-d17118801745)
+# CSE_StepResponse_ME_4203_Group7_2024 Number 7 ![Lab_2_Num7](https://github.com/Dekudeks/CSE_StepResponse_ME_4203_Group7_2024/assets/161302464/d2ad6f78-672a-4428-9c9c-23e1ee696b97)
 
 
 
